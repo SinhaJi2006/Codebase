@@ -20,7 +20,7 @@
 .box {
     text-align: left;
     font-size: 15px;
-    width: 800px;
+    width: 53%;
     font-size: 16px;
 }
 
@@ -62,8 +62,8 @@
 }
 
 .firstbox {
-    width: 400px;
-    height: 401px;
+    width: 26%;
+    height: 59%;
     padding: 10px;
     margin: 200px 0 0 0;
     border-radius: 10px;
